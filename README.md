@@ -62,7 +62,7 @@ whatsapp-sticker-main/
 1. Clone the repository:
    ```bash
    git clone https://github.com/4rmnd/whatsapp-sticker-web.git
-   cd whatsapp-sticker-main
+   cd whatsapp-sticker-web
    ```
 
 2. Install dependencies:
